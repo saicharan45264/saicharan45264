@@ -1,6 +1,6 @@
 <!-- Cyberpunk Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/7Y7YtJH.gif" width="100%" />
+  <img src="https://i.imgur.com/V7NqXbP.gif" width="100%" />
 </p>
 
 <h1 align="center">⚡ Hey, I'm <span style="color:#7df9ff">Saicharan Boddeti</span> ⚡</h1>
