@@ -37,7 +37,6 @@ I'm a passionate Computer Science Engineering student at **Amrita Vishwa Vidyape
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Ollama_logo.png"/>
-  <img height="40" src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg"/>
 </p>
 
 ### 🗄 Databases  
