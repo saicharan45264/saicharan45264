@@ -47,13 +47,6 @@ I'm a passionate Computer Science Engineering student at **Amrita Vishwa Vidyape
 
 ---
 
-## 🎨 **Cyberpunk Animated Divider**
-<p align="center">
-  <img src="https://i.imgur.com/SY4FIXd.gif" width="60%">
-</p>
-
----
-
 # 🚀 **Featured Projects**
 
 ### 📄 **Smart AI Document Assistant (RAG System)**
@@ -65,37 +58,17 @@ I'm a passionate Computer Science Engineering student at **Amrita Vishwa Vidyape
 
 ---
 
-## 📈 GitHub Stats (Neon Mode)
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saicharanboddeti&show_icons=true&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🔥 Continuous Learning Streak
-<p align="center">
-  <img src="https://streak-stats.ibrahimgurhan.dev?user=saicharanboddeti&theme=neon-palenight&hide_border=true" />
-</p>
-
----
 
 ## 🧩 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode.card.workers.dev/saicharanboddeti?theme=dark&font=baloo&extension=activity" />
+  <img src="https://leetcard.jacoblin.cool/saicharan45264?theme=dark&font=Baloo%202" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-📧 Email: **saicharan.boddeti@gmail.com**  
- 
+📧 Email: **saicharan45264@gmail.com**  
 
----
-
-<p align="center">
-  <img src="https://i.imgur.com/EOyM1uG.gif" width="70%">
-</p>
 
 <h3 align="center">💜 Thanks for visiting! Have a great day.</h3>
