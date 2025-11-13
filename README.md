@@ -68,15 +68,14 @@ I'm a passionate Computer Science Engineering student at **Amrita Vishwa Vidyape
 ## 📈 GitHub Stats (Neon Mode)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saicharanboddeti&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharanboddeti&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saicharanboddeti&show_icons=true&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
 ## 🔥 Continuous Learning Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saicharanboddeti&theme=neon-palenight&hide_border=true" />
+  <img src="https://streak-stats.ibrahimgurhan.dev?user=saicharanboddeti&theme=neon-palenight&hide_border=true" />
 </p>
 
 ---
